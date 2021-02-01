@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luiz</h1>
-<h3 align="center">I'm a Full Stack Web Developer studying on Trybe.</h3>
+<h3 align="center">I'm a Full Stack Web Developer studying at Trybe.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
